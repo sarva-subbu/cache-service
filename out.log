@@ -1,0 +1,18 @@
+2019-04-18 12:23:49.626  INFO 49479 --- [main] c.s.c.CacheServiceApplication            : Starting CacheServiceApplication on L-SFH1XTHTDD-M with PID 49479 (/Users/sa5g3o3/Desktop/Sarva/my_git_apps/cache-service/build/classes/java/main started by sa5g3o3 in /Users/sa5g3o3/Desktop/Sarva/my_git_apps/cache-service)
+2019-04-18 12:23:49.629  INFO 49479 --- [main] c.s.c.CacheServiceApplication            : No active profile set, falling back to default profiles: default
+2019-04-18 12:23:50.648  INFO 49479 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-18 12:23:50.651  INFO 49479 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-18 12:23:50.690  INFO 49479 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2019-04-18 12:23:51.506  INFO 49479 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-18 12:23:51.538  INFO 49479 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-18 12:23:51.538  INFO 49479 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-18 12:23:51.644  INFO 49479 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-18 12:23:51.644  INFO 49479 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1962 ms
+2019-04-18 12:23:52.846  INFO 49479 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-18 12:23:53.333  INFO 49479 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-04-18 12:23:53.420  INFO 49479 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-18 12:23:53.423  INFO 49479 --- [main] c.s.c.CacheServiceApplication            : Started CacheServiceApplication in 4.179 seconds (JVM running for 4.539)
+2019-04-18 12:23:56.916  INFO 49479 --- [RMI TCP Connection(1)-10.48.129.239] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-18 12:23:56.917  INFO 49479 --- [RMI TCP Connection(1)-10.48.129.239] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-18 12:23:56.932  INFO 49479 --- [RMI TCP Connection(1)-10.48.129.239] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2019-04-18 12:24:02.402  INFO 49479 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
